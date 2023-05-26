@@ -141,6 +141,8 @@ public class GUIManual extends JFrame {
         // Pinta y ajusta diseño del contenedor de contenidos
         pintarPanelDerecho();
         
+
+//Aqui es donde se configura el titulo
         setTitle("Mundial");
         pack();
         setVisible(true);
